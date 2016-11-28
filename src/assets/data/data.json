@@ -1,0 +1,283 @@
+{
+
+  "schedule": [
+    {
+      "date": "2016-11-15",
+      "groups": [
+        {
+          "time": "8:00 am",
+          "sessions": [
+            {
+              "name": "Non Profit Conferences of 2016",
+              "timeStart": "8:00 am",
+              "timeEnd": "8:00 pm",
+              "location": "United States",
+              "tracks": ["Communication"]
+            }
+          ]
+        },
+        {
+          "time": "8:00 am to 8:00 pm",
+          "sessions": [
+            {
+              "name": "The WHAT IF Conference",
+              "location": "Room 220",
+              "description": "The WHAT IF Conference is for anyone who supports nonprofit organizations, especially staff and board members, volunteers, donors, foundations and corporate funders.In one, very full day, some of our world’s most effective philanthropists, organizational experts, and passionate advocates will share useful insights. Your great work will be validated, and you will be energized to move beyond current paradigms and find innovative ways to increase your impact.Running a nonprofit, delivering excellent programs, and leading a nonprofit Board are all critical to mission delivery. On October 5th, you’ll be inspired to do even more, and to do it more effectively thanks to the wisdom and ideas shared by our speakers and trainers.",
+              "speakerNames": ["Lynne Twist"],
+              "timeStart": "9:00 am",
+              "timeEnd": "9:30 am",
+              "tracks": ["Communication"]
+            },
+            {
+              "name": "The BoardSource Leadership Forum",
+              "location": "Room 2202",
+              "description": "The BoardSource Leadership Forum (BLF) is a global conference focused on nonprofit leadership at the highest level – the board of directors. We gather more than 800 board members, chief executives, staff, and nonprofit professionals for two days to discuss the newest thinking and best practices in nonprofit governance. Through plenary sessions, workshops, discussions, presentations, and networking events, our participants learn how to guide their organizations toward greater impact and mission fulfillment.",
+              "speakerNames": ["Ted Turtle"],
+              "timeStart": "9:30 am",
+              "timeEnd": "9:45 am",
+              "tracks": ["Ionic"]
+            },
+            {
+              "name": "2016 National Alliance Conference",
+              "location": "Room 2201",
+              "description": "Take full advantage of the best national peer network by attending the 2016 Alliance National Conference. This conference features exceptional speakers and a plethora of workshops that address key issues and trends affecting nonprofit human-serving organizations. It features valuable opportunities for executives, senior management, and board members.",
+              "speakerNames": ["Rachel Rabbit"],
+              "timeStart": "9:45 am",
+              "timeEnd": "10:00 am",
+              "tracks": ["Tooling"]
+            }
+          ]
+        },
+        {
+          "time": "10:00 am",
+          "sessions": [
+            {
+              "name": "24th Annual Non profit conf. of Sustainability Stratagies",
+              "location": "Room 2201",
+              "description": "The conference celebrates nearly 25 years of providing education, knowledge and tools to help build the capacity of the nonprofit community. In 2015, this event attracted over 400 nonprofit leaders, managers, executive directors/CEOs, business leaders, ASU alumni, faculty, staff and students.",
+              "speakerNames": ["Eva Eagle", "Lionel Lion"],
+              "timeStart": "10:00 am",
+              "timeEnd": "10:15 am",
+              "tracks": ["Ionic"]
+            },
+            {
+              "name": "Impact Convergence 2016",
+              "location": "Room 2202",
+              "description": "Impact Convergence 2016 brings together leaders, practitioners, and professionals from around the globe who are interested in impact and evaluation. Participants will network and learn about other areas of practice, discuss a range of opportunities and challenges faced by different sectors, and work collaboratively to improve impact measurement..",
+              "speakerNames": ["Isabella Iguana", "Eva Eagle"],
+              "timeStart": "10:15 am",
+              "timeEnd": "10:30 am",
+              "tracks": ["Design"]
+            },
+            {
+              "name": "Philanthropy Southwest 2016 Conf.",
+              "location": "Room 2202",
+              "description": "As the most enduring regional association in the country, Philanthropy Southwest delivers a long-standing annual conference for the foundation community that draws hundreds of trustees and staff who learn from seasoned practitioners and experts from across the country.",
+              "speakerNames": ["Charlie Cheetah"],
+              "timeStart": "10:30 am",
+              "timeEnd": "11:00 am",
+              "tracks": ["Services"]
+            }
+          ]
+        },
+        {
+          "time": "11:00 am",
+          "sessions": [
+            {
+              "name": "TechNow 2016",
+              "location": "Room 2201",
+              "description": "TechNow is the longest-running nonprofit technology conference in the Pittsburgh region – a whole day devoted to new, important technology trends and resources for nonprofits. Technology affects nearly every effort to achieve our missions. TechNow connects you with the resources, information and people your nonprofit needs to succeed!.",
+              "speakerNames": ["Karl Kitten", "Lionel Lion"],
+              "timeStart": "11:00 am",
+              "timeEnd": "11:45 am",
+              "tracks": ["Workshop"]
+            },
+            {
+              "name": "INBOUND 2016",
+              "location": "Room 2203",
+              "description": "INBOUND's purpose is to provide the inspiration, education, and connections you need to transform your business. Through inspiring keynotes, innovative talks, educational breakouts, hands-on lessons, and tons of networking, you will learn how the INBOUND experience, and especially our content, is truly remarkable..",
+              "speakerNames": ["Lionel Lion", "Gino Giraffe"],
+              "timeStart": "11:30 am",
+              "timeEnd": "11:50 am",
+              "tracks": ["Communication"]
+            },
+            {
+              "name": "National Arts Marketing 2016",
+              "location": "Room 2203",
+              "description": "With continuous shifting trends in the landscape of arts marketing and audience engagement, arts organizations must go beyond “embracing” change. Instead, we need to desire change, seek it out, work for it, and invest in it; we need to Fuel the Change. Join 650+ arts marketers in Austin this November to find out where the change is heading and learn the strategies and tactics for adapting to meet the demand.",
+              "speakerNames": ["Rachel Rabbit", "Eva Eagle"],
+              "timeStart": "11:30 am",
+              "timeEnd": "12:00 pm",
+              "tracks": ["Navigation"]
+            }
+          ]
+        },
+        {
+          "time": "3:00",
+          "sessions": [
+            {
+              "name": "Independent Sector Conf 2016",
+              "location": "Room 2201",
+              "description": "If the charitable community is to thrive, we must explore the opportunities that wait at the edges of our sector. New partnerships with other sectors. New voices energizing conversations. New ways to collaborate with each other. Join us November 16-18, 2016, in D.C. on the heels of an historic election, at a time of significant change in the sector and the country. New frontiers await.",
+              "speakerNames": ["Ted Turtle"],
+              "timeStart": "3:00 pm",
+              "timeEnd": "3:30 pm",
+              "tracks": ["Angular"]
+            },
+            {
+              "name": "2016 Annual ARNOVA Conference",
+              "location": "Room 2202",
+              "description": "More than 750 researchers, teachers and leaders from the field gather at the Annual Conference. Over recent decades, the public conversation at our conference has evolved to address new developments in our field(s), including social entrepreneurship, social economy and all aspects of civil society, as well as to meet the needs of those who study and lead “the social sector.” ARNOVA’s Annual Conference is the largest gathering held regularly anywhere devoted to these matters.",
+              "speakerNames": ["Rachel Rabbit"],
+              "timeStart": "3:30 pm",
+              "timeEnd": "3:45 pm",
+              "tracks": ["Navigation"]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+
+  "speakers": [
+    {
+      "name": "Burt Bear",
+      "profilePic": "assets/img/speakers/me.jpg",
+      "twitter": "TechNowConf",
+      "about": "Burt is a Bear.",
+      "location": "Everywhere",
+      "email": "kosamiar@gmail.com",
+      "phone": "+1-470-331-0912"
+    },
+    {
+      "name": "Charlie Cheetah",
+      "profilePic": "assets/img/speakers/me.jpg",
+      "twitter": "TheResAlliance",
+      "about": "Charlie is a Cheetah.",
+      "location": "Everywhere",
+      "email": "kosamiar@gmail.com",
+      "phone": "+1-470-331-0912"
+    },
+    {
+      "name": "Donald Duck",
+      "profilePic": "assets/img/speakers/me.jpg",
+      "twitter": "TechNowConf",
+      "about": "Donald is a Duck.",
+      "location": "Everywhere",
+       "email": "kosamiar@gmail.com",
+      "phone": "+1-470-331-0912"
+    },
+    {
+      "name": "Eva Eagle",
+      "profilePic": "assets/img/speakers/me.jpg",
+      "twitter": "FastCompany",
+      "about": "Eva is an Eagle.",
+      "location": "Everywhere",
+      "email": "kosamiar@gmail.com",
+      "phone": "+1-470-331-0912"
+    },
+    {
+      "name": "Ellie Elephant",
+      "profilePic": "assets/img/speakers/me.jpg",
+      "twitter": "TechNowConf",
+      "about": "Ellie is an Elephant.",
+      "location": "Everywhere",
+      "email": "kosamiar@gmail.com",
+      "phone": "+1-470-331-0912"
+    },
+    {
+      "name": "Gino Giraffe",
+      "profilePic": "assets/img/speakers/me.jpg",
+      "twitter": "TechNowConf",
+      "about": "Gino is a Giraffe.",
+      "location": "Everywhere",
+      "email": "kosamiar@gmail.com",
+      "phone": "+1-470-331-0912"
+    },
+    {
+      "name": "Isabella Iguana",
+      "profilePic": "assets/img/speakers/me.jpg",
+      "twitter": "TechNowConf",
+      "about": "Isabella is an Iguana.",
+      "location": "Everywhere",
+      "email": "kosamiar@gmail.com",
+      "phone": "+1-470-331-0912"
+    },
+    {
+      "name": "Karl Kitten",
+      "profilePic": "assets/img/speakers/me.jpg",
+      "twitter": "ARNOVA",
+      "about": "Karl is a Kitten.",
+      "location": "Everywhere",
+      "email": "kosamiar@gmail.com",
+      "phone": "+1-470-331-0912"
+    },
+    {
+      "name": "Lionel Lion",
+      "profilePic": "assets/img/speakers/me.jpg",
+      "twitter": "FastCompany",
+      "about": "Lionel is a Lion.",
+      "location": "Everywhere",
+       "email": "kosamiar@gmail.com",
+      "phone": "+1-470-331-0912"
+    },
+    {
+      "name": "Molly Mouse",
+      "profilePic": "assets/img/speakers/me.jpg",
+      "twitter": "ARNOVA",
+      "about": "Molly is a Mouse.",
+      "location": "Everywhere",
+      "email": "molly@example.com",
+      "phone": "+1-541-754-3010"
+    },
+    {
+      "name": "Paul Puppy",
+      "profilePic": "assets/img/speakers/me.jpg",
+      "twitter": "TheResAlliance",
+      "about": "Paul is a Puppy.",
+      "location": "Everywhere",
+      "email": "paul@example.com",
+      "phone": "+1-541-754-3010"
+    },
+    {
+      "name": "Rachel Rabbit",
+      "profilePic": "assets/img/speakers/me.jpg",
+      "twitter": "TheResAlliance",
+      "about": "Rachel is a Rabbit.",
+      "location": "Everywhere",
+      "email": "kosamiar@gmail.com",
+      "phone": "+1-470-331-0912"
+    },
+    {
+      "name": "Ted Turtle",
+      "profilePic": "assets/img/speakers/me.jpg",
+      "twitter": "TheResAlliance",
+      "about": "Ted is a Turtle.",
+      "location": "Everywhere",
+     "email": "kosamiar@gmail.com",
+      "phone": "+1-470-331-0912"
+    }
+  ],
+
+
+  "map": [
+    {
+      "name": "Home Sweet Home",
+      "lat": 37.391010,
+      "lng": -121.932811,
+      "center": true
+    },
+    {
+      "name": "CISCO HQ",
+      "lat": 43.074395,
+      "lng": -89.381056
+    },
+    {
+      "name": "Party Place",
+      "lat": 43.07336,
+      "lng": -89.38335
+    }
+  ]
+
+}
